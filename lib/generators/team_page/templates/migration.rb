@@ -1,4 +1,4 @@
-class CreateTeamMembers  < ActiveRecord::Migration
+class CreateTeamMembersTable  < ActiveRecord::Migration
   def self.up
     create_table :team_members do |t|
       t.string :name
