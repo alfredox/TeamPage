@@ -1,3 +1,7 @@
 = TeamPage
 
 This project rocks and uses MIT-LICENSE.
+
+Proyecto personal para probar engines en Rails 3, basado en
+http://coding.smashingmagazine.com/2011/06/23/a-guide-to-starting-your-own-rails-engine-gem/
+
